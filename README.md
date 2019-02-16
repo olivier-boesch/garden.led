@@ -1,2 +1,2 @@
 # kivy-led
-A led widget for kivy
+A led widget for kivy with default shapes
