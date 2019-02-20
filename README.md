@@ -1,4 +1,5 @@
 # kivy-led
+![screenshot](https://raw.githubusercontent.com/olivier-boesch/garden.led/master/screenshot.png)
 ## What is about ?
 A led widget for kivy with default shapes. run __init__.py to see an example running. default shapes of led are provided (round, square, rounded square with or without line)
 
