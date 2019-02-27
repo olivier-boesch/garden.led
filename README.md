@@ -3,6 +3,8 @@
 ## What is about ?
 A led like widget for kivy with default shapes. run \_\_init\_\_.py to see an example running. default shapes of led are provided (round, square, rounded square with or without line)
 
+see it in action : https://youtu.be/fwomV-zieqA 
+
 ## properties
 ### state
 'on' or 'off' whether the led is on or off
